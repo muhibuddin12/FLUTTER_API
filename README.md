@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_api
 
 A new Flutter project.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-api
 This project mobile application fetching API using GETX
->>>>>>> 9fa0b57e2359b798afcbdc349d17306d52142618
