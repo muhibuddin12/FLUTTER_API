@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_api
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-api
+This project mobile application fetching API using GETX
+>>>>>>> 9fa0b57e2359b798afcbdc349d17306d52142618
